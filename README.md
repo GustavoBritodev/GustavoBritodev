@@ -1,30 +1,30 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubunto+mono&size=35&duration=8000&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+Gustavo+Brito!)
+----
+ I have a degree in Systems Analysis and Development from the Praia Grande College of Technology (Fatec PG) and a technical degree in Systems Development from the Dra. Ruth Cardoso Technical School (Etec SV). I have a solid foundation in languages ​​and technologies such as Java, PHP, C#, JavaScript, Python, Jira, Scrum, Git and MySQL. I have extensive experience in projects that use agile methodologies, collaborating to ensure an efficient workflow and high-quality results.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobrito06/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g.brito013/)
-[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@GB071)
+## Connect with me!
 
-### Hello! I'm Gustavo, a programming student and an aspiring developer. Currently focused on the back-end but always looking to learn a little more about everything! 😁👋🏻
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavobrito06/v">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/g.brito013/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://replit.com/@GB071">
+    <img src="https://skillicons.dev/icons?i=replit" />
+  </a>
+</p>
 
- #### •👨‍🎓 Software Development Student
+## My stack
 
- #### •👨‍💻 Passionate about the back-end and intrigued by databases
 
- #### •☕ Learning something about Java
-
-<div style="display: inline_block"></br>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    
-</div>
-
-</br>
+![My Skills](https://skillicons.dev/icons?i=java,spring,cs,php,js,react,python,mysql,angular&perline=10)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoBritodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
+
+
