@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubunto+mono&size=35&duration=7000&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+Gustavo+Brito!)
 ----
- I have a degree in Systems Analysis and Development from the Praia Grande College of Technology (Fatec PG) and a technical degree in Systems Development from the Dra. Ruth Cardoso Technical School (Etec SV). I have a solid foundation in languages ​​and technologies such as Java, PHP, C#, JavaScript, Python, Jira, Scrum, Git and MySQL. I have extensive experience in projects that use agile methodologies, collaborating to ensure an efficient workflow and high-quality results.
+ I am currently pursuing a degree in Systems Analysis and Development at Praia Grande College of Technology (Fatec PG). Additionally, I hold a technical diploma in Systems Development from Dra. Ruth Cardoso Technical School (Etec SV). My skill set includes a strong foundation in programming languages ​​and technologies such as Java, PHP, C#, JavaScript, Python, and database management systems like MySQL and MongoDB. I am also proficient in project management tools like Jira and Git and agile methodologies such as Scrum and Kanban. My academic and professional experiences, I have been actively involved in projects that leverage agile principles throughout to ensure efficient workflows and deliver high-quality results.
 
 ## Connect with me!
 
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## My stack
+## My Stack
 
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,cs,php,js,react,python,mysql,angular&perline=10)
